@@ -1,0 +1,7 @@
+changed bottom spacing from 65 to 40
+mb-80 from 80 to 60px
+padding-left: 20px; to
+.box-image-contact {
+  position: relative;
+  padding-left: 42px;
+}
